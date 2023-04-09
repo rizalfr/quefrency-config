@@ -17,3 +17,5 @@ include:
     shield: quefrency_left
   - board: nrfmicro_13
     shield: quefrency_right
+ - board: nrfmicro_13
+    shield: settings_reset
